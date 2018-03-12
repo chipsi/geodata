@@ -449,13 +449,13 @@
 			"type": "Feature"
 		},
 		{
-			"id": "United Counties of Stormont, Dundas and Glengarry",
+			"id": "United Counties of Stormont Dundas and Glengarry",
 			"geometry": {
 				"type": "Point",
 				"coordinates": [0,0]
 			},
 			"properties": {
-				"fr": "Comté de Unis Stormont, Dundas et Glengarry"
+				"fr": "Comté de Unis Stormont Dundas et Glengarry"
 			},
 			"type": "Feature"
 		},
