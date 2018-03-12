@@ -55,12 +55,33 @@ class RepairCommand extends AbstractBaseCommand
             return $x['basename'] === 'data.geojson';
         });
 
+        $this->output->writeln('Check for invalid characters in filenames');
+        $this->invalidCharacters($source);
         $this->output->writeln('Check for missing data.geojson files');
         $this->missingGeoJson($source);
         $this->output->writeln('Converting data.geojson files to canonical format');
         $this->canonicalGeoJson($source);
 
     }
+
+    /**
+     * Check for non-ascii characters in file names.
+     *
+     * @param Filesystem $source
+     */
+    private function invalidCharacters(Filesystem $source)
+    {
+        $objects = $source->listContents('/', true);
+
+        $child_objects = array_filter($objects, function (array $x): bool {
+            return preg_match('/^[A-Za-z ().-]+$/', $x['basename']) !== 1;
+        });
+
+        foreach ($child_objects as $child_object) {
+            $this->output->writeln($child_object['path'] . ' is not written using ASCII characters');
+        }
+    }
+
 
     /**
      * Create missing GeoJSON files (where we have child data).
@@ -139,7 +160,7 @@ class RepairCommand extends AbstractBaseCommand
                 $feature->id = str_replace('\'', '’', $feature->id);
                 if (!empty($feature->properties)) {
                     foreach ($feature->properties as $key => $value) {
-                        $feature->properties->$key = str_replace('\'', '’', $value);
+                        $feature->properties->$key = str_replace(['\'', '_'], ['’', ' '], $value);
                     }
                 }
             }
