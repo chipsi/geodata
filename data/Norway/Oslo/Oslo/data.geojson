@@ -5,25 +5,25 @@
 			"type": "Feature",
 			"id": "Alna",
 			"properties": {
-				"bar": "Alna_(Oslo)",
-				"de": "Alna_(Oslo)",
-				"es": "Alna_(Oslo)",
-				"et": "Alna_linnaosa",
+				"bar": "Alna (Oslo)",
+				"de": "Alna (Oslo)",
+				"es": "Alna (Oslo)",
+				"et": "Alna linnaosa",
 				"fa": "النا",
-				"nn": "Oslobydelen_Alna",
-				"no": "Bydel_Alna",
-				"pl": "Bydel_Alna",
-				"zh": "阿爾納_(奧斯陸)"
+				"nn": "Oslobydelen Alna",
+				"no": "Bydel Alna",
+				"pl": "Bydel Alna",
+				"zh": "阿爾納 (奧斯陸)"
 			}
 		},
 		{
 			"type": "Feature",
 			"id": "Bjerke",
 			"properties": {
-				"bar": "Bjerke_(Oslo)",
-				"de": "Bjerke_(Oslo)",
-				"et": "Bjerke_linnaosa",
-				"no": "Bydel_Bjerke",
+				"bar": "Bjerke (Oslo)",
+				"de": "Bjerke (Oslo)",
+				"et": "Bjerke linnaosa",
+				"no": "Bydel Bjerke",
 				"zh": "比耶克"
 			}
 		},
@@ -31,9 +31,9 @@
 			"type": "Feature",
 			"id": "Frogner",
 			"properties": {
-				"et": "Frogneri_linnaosa",
-				"nl": "Frogner_(Oslo)",
-				"no": "Bydel_Frogner",
+				"et": "Frogneri linnaosa",
+				"nl": "Frogner (Oslo)",
+				"no": "Bydel Frogner",
 				"zh": "弗朗納"
 			}
 		},
@@ -41,20 +41,20 @@
 			"type": "Feature",
 			"id": "Gamle Oslo",
 			"properties": {
-				"bar": "Gamle_Oslo",
-				"ca": "Gamle_Oslo",
-				"da": "Gamle_Oslo",
-				"de": "Gamle_Oslo",
-				"es": "Gamle_Oslo",
-				"et": "Gamle_Oslo_linnaosa",
-				"fr": "Gamle_Oslo",
-				"it": "Gamle_Oslo",
-				"nl": "Gamle_Oslo",
-				"nn": "Bydel_Gamle_Oslo",
-				"no": "Bydel_Gamle_Oslo",
+				"bar": "Gamle Oslo",
+				"ca": "Gamle Oslo",
+				"da": "Gamle Oslo",
+				"de": "Gamle Oslo",
+				"es": "Gamle Oslo",
+				"et": "Gamle Oslo linnaosa",
+				"fr": "Gamle Oslo",
+				"it": "Gamle Oslo",
+				"nl": "Gamle Oslo",
+				"nn": "Bydel Gamle Oslo",
+				"no": "Bydel Gamle Oslo",
 				"ru": "Гамле-Осло",
-				"sv": "Gamle_Oslo",
-				"uk": "Гамле_Осло",
+				"sv": "Gamle Oslo",
+				"uk": "Гамле Осло",
 				"zh": "舊奧斯陸"
 			}
 		},
@@ -62,18 +62,22 @@
 			"type": "Feature",
 			"id": "Grorud",
 			"properties": {
-				"et": "Grorudi_linnaosa",
-				"no": "Bydel_Grorud",
+				"et": "Grorudi linnaosa",
+				"no": "Bydel Grorud",
 				"zh": "格魯德"
 			}
 		},
 		{
 			"type": "Feature",
+			"id": "Grünerløkka"
+		},
+		{
+			"type": "Feature",
 			"id": "Grünerløkka",
 			"properties": {
-				"et": "Grünerløkka_linnaosa",
-				"no": "Bydel_Grünerløkka",
-				"pl": "Grünerløkka_(dzielnica)",
+				"et": "Grünerløkka linnaosa",
+				"no": "Bydel Grünerløkka",
+				"pl": "Grünerløkka (dzielnica)",
 				"zh": "葛魯尼洛卡"
 			}
 		},
@@ -81,13 +85,13 @@
 			"type": "Feature",
 			"id": "Nordre Aker",
 			"properties": {
-				"bar": "Nordre_Aker",
-				"da": "Nordre_Aker",
-				"de": "Nordre_Aker",
-				"et": "Nordre_Akeri_linnaosa",
-				"fr": "Nordre_Aker",
-				"nn": "Bydel_Nordre_Aker",
-				"no": "Bydel_Nordre_Aker",
+				"bar": "Nordre Aker",
+				"da": "Nordre Aker",
+				"de": "Nordre Aker",
+				"et": "Nordre Akeri linnaosa",
+				"fr": "Nordre Aker",
+				"nn": "Bydel Nordre Aker",
+				"no": "Bydel Nordre Aker",
 				"zh": "諾德阿克爾"
 			}
 		},
@@ -95,15 +99,15 @@
 			"type": "Feature",
 			"id": "Nordstrand",
 			"properties": {
-				"bar": "Nordstrand_(Oslo)",
-				"ca": "Nordstrand_(Oslo)",
-				"da": "Nordstrand_(Oslo)",
-				"de": "Nordstrand_(Oslo)",
-				"et": "Nordstrandi_linnaosa",
-				"fr": "Nordstrand_(Oslo)",
-				"no": "Bydel_Nordstrand",
-				"pl": "Dzielnica_Nordstrand",
-				"sv": "Nordstrand,_Oslo",
+				"bar": "Nordstrand (Oslo)",
+				"ca": "Nordstrand (Oslo)",
+				"da": "Nordstrand (Oslo)",
+				"de": "Nordstrand (Oslo)",
+				"et": "Nordstrandi linnaosa",
+				"fr": "Nordstrand (Oslo)",
+				"no": "Bydel Nordstrand",
+				"pl": "Dzielnica Nordstrand",
+				"sv": "Nordstrand, Oslo",
 				"zh": "北海灘"
 			}
 		},
@@ -111,8 +115,8 @@
 			"type": "Feature",
 			"id": "Sagene",
 			"properties": {
-				"et": "Sagene_linnaosa",
-				"fr": "Sagene_(quartier)",
+				"et": "Sagene linnaosa",
+				"fr": "Sagene (quartier)",
 				"ur": "سگنے",
 				"zh": "薩格奈"
 			}
@@ -121,15 +125,15 @@
 			"type": "Feature",
 			"id": "St. Hanshaugen",
 			"properties": {
-				"bar": "St._Hanshaugen",
-				"da": "St._Hanshaugen",
-				"de": "St._Hanshaugen",
-				"es": "St._Hanshaugen",
-				"et": "St._Hanshaugeni_linnaosa",
-				"fr": "St._Hanshaugen",
-				"nn": "Bydel_St._Hanshaugen",
-				"no": "Bydel_St._Hanshaugen",
-				"sv": "St._Hanshaugen",
+				"bar": "St. Hanshaugen",
+				"da": "St. Hanshaugen",
+				"de": "St. Hanshaugen",
+				"es": "St. Hanshaugen",
+				"et": "St. Hanshaugeni linnaosa",
+				"fr": "St. Hanshaugen",
+				"nn": "Bydel St. Hanshaugen",
+				"no": "Bydel St. Hanshaugen",
+				"sv": "St. Hanshaugen",
 				"zh": "聖漢薩根"
 			}
 		},
@@ -137,8 +141,8 @@
 			"type": "Feature",
 			"id": "Stovner",
 			"properties": {
-				"et": "Stovneri_linnaosa",
-				"no": "Bydel_Stovner",
+				"et": "Stovneri linnaosa",
+				"no": "Bydel Stovner",
 				"zh": "斯托夫奈"
 			}
 		},
@@ -146,13 +150,13 @@
 			"type": "Feature",
 			"id": "Søndre Nordstrand",
 			"properties": {
-				"bar": "Søndre_Nordstrand",
-				"da": "Søndre_Nordstrand",
-				"de": "Søndre_Nordstrand",
-				"et": "Søndre_Nordstrandi_linnaosa",
-				"fr": "Søndre_Nordstrand",
-				"nn": "Søndre_Nordstrand",
-				"no": "Bydel_Søndre_Nordstrand",
+				"bar": "Søndre Nordstrand",
+				"da": "Søndre Nordstrand",
+				"de": "Søndre Nordstrand",
+				"et": "Søndre Nordstrandi linnaosa",
+				"fr": "Søndre Nordstrand",
+				"nn": "Søndre Nordstrand",
+				"no": "Bydel Søndre Nordstrand",
 				"zh": "松德諾德斯特蘭"
 			}
 		},
@@ -160,8 +164,8 @@
 			"type": "Feature",
 			"id": "Ullern",
 			"properties": {
-				"et": "Ullerni_linnaosa",
-				"no": "Bydel_Ullern",
+				"et": "Ullerni linnaosa",
+				"no": "Bydel Ullern",
 				"zh": "烏勒恩"
 			}
 		},
@@ -169,15 +173,15 @@
 			"type": "Feature",
 			"id": "Vestre Aker",
 			"properties": {
-				"ar": "فستره_آكر",
-				"bar": "Vestre_Aker",
-				"da": "Vestre_Aker",
-				"de": "Vestre_Aker",
-				"et": "Vestre_Akeri_linnaosa",
-				"fr": "Vestre_Aker",
-				"nl": "Vestre_Aker",
-				"no": "Bydel_Vestre_Aker",
-				"uk": "Вестре_Акер",
+				"ar": "فستره آكر",
+				"bar": "Vestre Aker",
+				"da": "Vestre Aker",
+				"de": "Vestre Aker",
+				"et": "Vestre Akeri linnaosa",
+				"fr": "Vestre Aker",
+				"nl": "Vestre Aker",
+				"no": "Bydel Vestre Aker",
+				"uk": "Вестре Акер",
 				"zh": "韋斯特阿克爾"
 			}
 		},
@@ -185,8 +189,8 @@
 			"type": "Feature",
 			"id": "Østensjø",
 			"properties": {
-				"et": "Østensjø_linnaosa",
-				"no": "Bydel_Østensjø",
+				"et": "Østensjø linnaosa",
+				"no": "Bydel Østensjø",
 				"zh": "奧斯坦約"
 			}
 		}

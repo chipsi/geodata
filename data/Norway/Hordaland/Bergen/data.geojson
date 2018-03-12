@@ -5,27 +5,43 @@
 			"type": "Feature",
 			"id": "Arna",
 			"properties": {
-				"nl": "Arna_(Noorwegen)"
+				"nl": "Arna (Noorwegen)"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Årstad"
+		},
+		{
+			"type": "Feature",
+			"id": "Åsane"
 		},
 		{
 			"type": "Feature",
 			"id": "Bergenhus",
 			"properties": {
-				"fr": "Bergenhus_(bydel)",
-				"nl": "Bergenhus_(stadsdeel)",
-				"nn": "Bergenhus_bydel"
+				"fr": "Bergenhus (bydel)",
+				"nl": "Bergenhus (stadsdeel)",
+				"nn": "Bergenhus bydel"
 			}
 		},
 		{
 			"type": "Feature",
 			"id": "Fana",
 			"properties": {
-				"el": "Φάνα_(Νορβηγία)",
-				"fr": "Fana_(Norvège)",
-				"nl": "Fana_(Bergen)",
-				"sv": "Fana,_Norge"
+				"el": "Φάνα (Νορβηγία)",
+				"fr": "Fana (Norvège)",
+				"nl": "Fana (Bergen)",
+				"sv": "Fana, Norge"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fyllingsdalen"
+		},
+		{
+			"type": "Feature",
+			"id": "Laksevåg"
 		},
 		{
 			"type": "Feature",
@@ -38,7 +54,7 @@
 			"type": "Feature",
 			"id": "Ytrebygda",
 			"properties": {
-				"ceb": "Sandsli_(lungsod)",
+				"ceb": "Sandsli (lungsod)",
 				"ur": "یٹربیگدا"
 			}
 		},
@@ -46,7 +62,7 @@
 			"type": "Feature",
 			"id": "Årstad",
 			"properties": {
-				"nl": "Årstad_(Bergen)"
+				"nl": "Årstad (Bergen)"
 			}
 		}
 	]

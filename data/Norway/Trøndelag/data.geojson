@@ -7,16 +7,20 @@
 			"properties": {
 				"ar": "أغدينيس",
 				"bpy": "অগডেনেস",
-				"et": "Agdenesi_vald",
+				"et": "Agdenesi vald",
 				"fa": "اگدنس",
 				"hy": "Ագդենես",
-				"nds": "Kommun_Agdenes",
-				"nn": "Agdenes_kommune",
+				"nds": "Kommun Agdenes",
+				"nn": "Agdenes kommune",
 				"ru": "Агденес",
-				"sv": "Agdenes_kommun",
+				"sv": "Agdenes kommun",
 				"ur": "اگدنس",
 				"zh": "阿格德內斯"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Åfjord"
 		},
 		{
 			"type": "Feature",
@@ -25,10 +29,10 @@
 				"ar": "بيوغن",
 				"bpy": "বজুগন",
 				"hy": "Բյուգն",
-				"nds": "Kommun_Bjugn",
-				"nn": "Bjugn_kommune",
+				"nds": "Kommun Bjugn",
+				"nn": "Bjugn kommune",
 				"ru": "Бьюгн",
-				"sv": "Bjugns_kommun",
+				"sv": "Bjugns kommun",
 				"zh": "比于恩"
 			}
 		},
@@ -37,10 +41,10 @@
 			"id": "Flatanger",
 			"properties": {
 				"bpy": "ফ্লাটাঙের",
-				"nds": "Kommun_Flatanger",
-				"nn": "Flatanger_kommune",
+				"nds": "Kommun Flatanger",
+				"nn": "Flatanger kommune",
 				"ru": "Флатангер",
-				"sv": "Flatangers_kommun",
+				"sv": "Flatangers kommun",
 				"zh": "弗拉唐厄爾"
 			}
 		},
@@ -49,11 +53,11 @@
 			"id": "Fosnes",
 			"properties": {
 				"bpy": "ফোসনেস",
-				"ceb": "Fosnes_(munisipyo)",
-				"nds": "Kommun_Fosnes",
-				"nn": "Fosnes_kommune",
+				"ceb": "Fosnes (munisipyo)",
+				"nds": "Kommun Fosnes",
+				"nn": "Fosnes kommune",
 				"ru": "Фуснес",
-				"sv": "Fosnes_kommun",
+				"sv": "Fosnes kommun",
 				"zh": "福斯內斯"
 			}
 		},
@@ -61,15 +65,15 @@
 			"type": "Feature",
 			"id": "Frosta",
 			"properties": {
-				"bar": "Frosta,_Norwegen",
+				"bar": "Frosta, Norwegen",
 				"bpy": "ফ্রোস্টা",
-				"ceb": "Frosta_(munisipyo)",
-				"de": "Frosta_(Norwegen)",
-				"la": "Frosta_(Norvegia)",
-				"nds": "Kommun_Frosta",
-				"nn": "Frosta_kommune",
+				"ceb": "Frosta (munisipyo)",
+				"de": "Frosta (Norwegen)",
+				"la": "Frosta (Norvegia)",
+				"nds": "Kommun Frosta",
+				"nn": "Frosta kommune",
 				"ru": "Фроста",
-				"sv": "Frosta_kommun",
+				"sv": "Frosta kommun",
 				"zh": "弗羅斯塔"
 			}
 		},
@@ -79,22 +83,22 @@
 			"properties": {
 				"ar": "فرويا",
 				"bpy": "ফ্রায়া",
-				"ceb": "Frøya_(munisipyo)",
-				"da": "Frøya_i_Trøndelag",
-				"et": "Frøya_vald",
-				"fr": "Frøya_(Trøndelag)",
+				"ceb": "Frøya (munisipyo)",
+				"da": "Frøya i Trøndelag",
+				"et": "Frøya vald",
+				"fr": "Frøya (Trøndelag)",
 				"ko": "프뢰위아",
-				"ms": "Frøya,_Sør-Trøndelag",
-				"nds": "Kommun_Frøya",
-				"nn": "Frøya_kommune",
-				"no": "Frøya_(kommune)",
-				"ro": "Frøya,_Sør-Trøndelag",
+				"ms": "Frøya, Sør-Trøndelag",
+				"nds": "Kommun Frøya",
+				"nn": "Frøya kommune",
+				"no": "Frøya (kommune)",
+				"ro": "Frøya, Sør-Trøndelag",
 				"ru": "Фрёйа",
-				"sl": "Frøya,_Sør-Trøndelag",
-				"sv": "Frøya_kommun",
-				"vi": "Frøya,_Sør-Trøndelag",
-				"war": "Frøya,_Sør-Trøndelag",
-				"zh": "弗爾島_(南特倫德拉格郡)"
+				"sl": "Frøya, Sør-Trøndelag",
+				"sv": "Frøya kommun",
+				"vi": "Frøya, Sør-Trøndelag",
+				"war": "Frøya, Sør-Trøndelag",
+				"zh": "弗爾島 (南特倫德拉格郡)"
 			}
 		},
 		{
@@ -102,15 +106,15 @@
 			"id": "Grong",
 			"properties": {
 				"bpy": "গ্রোঙ",
-				"ceb": "Grong_(munisipyo)",
-				"hy": "Գրոնգի_շրջան",
-				"nds": "Kommun_Grong",
-				"nl": "Grong_(gemeente)",
-				"nn": "Grong_kommune",
+				"ceb": "Grong (munisipyo)",
+				"hy": "Գրոնգի շրջան",
+				"nds": "Kommun Grong",
+				"nl": "Grong (gemeente)",
+				"nn": "Grong kommune",
 				"ru": "Гронг",
 				"se": "Kråangke",
-				"sv": "Grongs_kommun",
-				"zh": "格龍_(挪威)"
+				"sv": "Grongs kommun",
+				"zh": "格龍 (挪威)"
 			}
 		},
 		{
@@ -119,10 +123,10 @@
 			"properties": {
 				"ar": "هيمنا",
 				"bpy": "হেমনে",
-				"nds": "Kommun_Hemne",
-				"nn": "Hemne_kommune",
+				"nds": "Kommun Hemne",
+				"nn": "Hemne kommune",
 				"ru": "Хемне",
-				"sv": "Hemne_kommun",
+				"sv": "Hemne kommun",
 				"zh": "海姆內"
 			}
 		},
@@ -132,16 +136,20 @@
 			"properties": {
 				"ar": "هيترا",
 				"bpy": "হিট্রা",
-				"ceb": "Hitra_(munisipyo)",
-				"et": "Hitra_vald",
+				"ceb": "Hitra (munisipyo)",
+				"et": "Hitra vald",
 				"ja": "ヒトラ",
 				"ko": "히트라",
-				"nds": "Kommun_Hitra",
-				"nn": "Hitra_kommune",
+				"nds": "Kommun Hitra",
+				"nn": "Hitra kommune",
 				"ru": "Хитра",
-				"sv": "Hitra_kommun",
-				"zh": "希特拉_(自治區)"
+				"sv": "Hitra kommun",
+				"zh": "希特拉 (自治區)"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Holtålen"
 		},
 		{
 			"type": "Feature",
@@ -149,10 +157,10 @@
 			"properties": {
 				"ar": "هولتولن",
 				"bpy": "হোল্টলেন",
-				"nds": "Kommun_Holtålen",
-				"nn": "Holtålen_kommune",
+				"nds": "Kommun Holtålen",
+				"nn": "Holtålen kommune",
 				"ru": "Хультолен",
-				"sv": "Holtålens_kommun",
+				"sv": "Holtålens kommun",
 				"zh": "霍爾托倫"
 			}
 		},
@@ -161,11 +169,11 @@
 			"id": "Høylandet",
 			"properties": {
 				"bpy": "হায়লেন্ডেট",
-				"nds": "Kommun_Høylandet",
-				"nl": "Høylandet_(gemeente)",
-				"nn": "Høylandet_kommune",
+				"nds": "Kommun Høylandet",
+				"nl": "Høylandet (gemeente)",
+				"nn": "Høylandet kommune",
 				"ru": "Хёйланнет",
-				"sv": "Høylandets_kommun",
+				"sv": "Høylandets kommun",
 				"zh": "惠蘭訥"
 			}
 		},
@@ -174,12 +182,12 @@
 			"id": "Inderøy",
 			"properties": {
 				"bpy": "ইন্ডেরায়",
-				"ceb": "Inderøy_(munisipyo_sa_Noruwega)",
-				"fa": "ایندری_(نروژ)",
-				"nds": "Kommun_Inderøy",
-				"nn": "Inderøy_kommune",
+				"ceb": "Inderøy (munisipyo sa Noruwega)",
+				"fa": "ایندری (نروژ)",
+				"nds": "Kommun Inderøy",
+				"nn": "Inderøy kommune",
 				"ru": "Иннерёй",
-				"sv": "Inderøy_kommun",
+				"sv": "Inderøy kommun",
 				"zh": "因德勒于"
 			}
 		},
@@ -187,12 +195,12 @@
 			"type": "Feature",
 			"id": "Indre Fosen",
 			"properties": {
-				"da": "Indre_Fosen",
-				"de": "Indre_Fosen",
-				"nl": "Indre_Fosen",
-				"nn": "Indre_Fosen_kommune",
-				"no": "Indre_Fosen",
-				"sv": "Indre_Fosens_kommun"
+				"da": "Indre Fosen",
+				"de": "Indre Fosen",
+				"nl": "Indre Fosen",
+				"nn": "Indre Fosen kommune",
+				"no": "Indre Fosen",
+				"sv": "Indre Fosens kommun"
 			}
 		},
 		{
@@ -201,11 +209,11 @@
 			"properties": {
 				"ar": "كلابو",
 				"bpy": "ক্লায়েবু",
-				"hy": "Քլեբուի_համայնք",
-				"nds": "Kommun_Klæbu",
-				"nn": "Klæbu_kommune",
+				"hy": "Քլեբուի համայնք",
+				"nds": "Kommun Klæbu",
+				"nn": "Klæbu kommune",
 				"ru": "Клебу",
-				"sv": "Klæbu_kommun",
+				"sv": "Klæbu kommun",
 				"zh": "克萊比"
 			}
 		},
@@ -214,25 +222,25 @@
 			"id": "Leka",
 			"properties": {
 				"bpy": "লেকা",
-				"ca": "Leka_(Noruega)",
-				"ceb": "Leka_(munisipyo)",
-				"de": "Leka_(Norwegen)",
-				"eu": "Leka_(Norvegia)",
-				"fi": "Leka_(Norja)",
-				"fr": "Leka_(Norvège)",
-				"jv": "Leka,_Norway",
-				"la": "Leka_(Norvegia)",
-				"ms": "Leka,_Norway",
-				"nds": "Kommun_Leka",
-				"nn": "Leka_kommune",
-				"pl": "Leka_(Norwegia)",
-				"pt": "Leka_(Noruega)",
-				"ro": "Leka,_Norvegia",
-				"ru": "Лека_(Норвегия)",
-				"sl": "Leka,_Norveška",
-				"sv": "Leka_kommun",
-				"war": "Leka,_Norway",
-				"zh": "萊卡_(挪威)"
+				"ca": "Leka (Noruega)",
+				"ceb": "Leka (munisipyo)",
+				"de": "Leka (Norwegen)",
+				"eu": "Leka (Norvegia)",
+				"fi": "Leka (Norja)",
+				"fr": "Leka (Norvège)",
+				"jv": "Leka, Norway",
+				"la": "Leka (Norvegia)",
+				"ms": "Leka, Norway",
+				"nds": "Kommun Leka",
+				"nn": "Leka kommune",
+				"pl": "Leka (Norwegia)",
+				"pt": "Leka (Noruega)",
+				"ro": "Leka, Norvegia",
+				"ru": "Лека (Норвегия)",
+				"sl": "Leka, Norveška",
+				"sv": "Leka kommun",
+				"war": "Leka, Norway",
+				"zh": "萊卡 (挪威)"
 			}
 		},
 		{
@@ -243,12 +251,12 @@
 				"bg": "Левангер",
 				"bpy": "লেভাঙের",
 				"ko": "레방에르",
-				"nds": "Kommun_Levanger",
-				"nl": "Levanger_(gemeente)",
-				"nn": "Levanger_kommune",
+				"nds": "Kommun Levanger",
+				"nl": "Levanger (gemeente)",
+				"nn": "Levanger kommune",
 				"ru": "Левангер",
 				"se": "Lievenge",
-				"sv": "Levangers_kommun",
+				"sv": "Levangers kommun",
 				"zh": "莱旺厄尔"
 			}
 		},
@@ -257,14 +265,14 @@
 			"id": "Lierne",
 			"properties": {
 				"bpy": "লিয়েরনে",
-				"ceb": "Lierne_(munisipyo)",
-				"fr": "Lierne_(Norvège)",
-				"li": "Lierne_(Nórwaeg)",
-				"nds": "Kommun_Lierne",
-				"nl": "Lierne_(Noorwegen)",
-				"nn": "Lierne_kommune",
+				"ceb": "Lierne (munisipyo)",
+				"fr": "Lierne (Norvège)",
+				"li": "Lierne (Nórwaeg)",
+				"nds": "Kommun Lierne",
+				"nl": "Lierne (Noorwegen)",
+				"nn": "Lierne kommune",
 				"ru": "Лиерне",
-				"sv": "Lierne_kommun",
+				"sv": "Lierne kommun",
 				"zh": "利耶內"
 			}
 		},
@@ -274,13 +282,13 @@
 			"properties": {
 				"ar": "مالفيك",
 				"bpy": "মালবিক",
-				"ceb": "Malvik_(munisipyo)",
+				"ceb": "Malvik (munisipyo)",
 				"hy": "Մալվիկ",
 				"ko": "말비크",
-				"nds": "Kommun_Malvik",
-				"nn": "Malvik_kommune",
+				"nds": "Kommun Malvik",
+				"nn": "Malvik kommune",
 				"ru": "Малвик",
-				"sv": "Malviks_kommun",
+				"sv": "Malviks kommun",
 				"zh": "馬爾維克"
 			}
 		},
@@ -290,12 +298,12 @@
 			"properties": {
 				"ar": "ميلدال",
 				"bpy": "মেলডাল",
-				"hy": "Մելդալի_համայնք",
+				"hy": "Մելդալի համայնք",
 				"ja": "メルダル",
-				"nds": "Kommun_Meldal",
-				"nn": "Meldal_kommune",
+				"nds": "Kommun Meldal",
+				"nn": "Meldal kommune",
 				"ru": "Мельдал",
-				"sv": "Meldals_kommun",
+				"sv": "Meldals kommun",
 				"zh": "梅爾達爾"
 			}
 		},
@@ -305,27 +313,31 @@
 			"properties": {
 				"ar": "ميلهاوس",
 				"bpy": "মেলহুস",
-				"ceb": "Melhus_(munisipyo)",
+				"ceb": "Melhus (munisipyo)",
 				"hy": "Մելհուս",
-				"nds": "Kommun_Melhus",
-				"nn": "Melhus_kommune",
+				"nds": "Kommun Melhus",
+				"nn": "Melhus kommune",
 				"ru": "Мельхус",
-				"sv": "Melhus_kommun",
+				"sv": "Melhus kommun",
 				"zh": "梅尔许斯"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Meråker"
 		},
 		{
 			"type": "Feature",
 			"id": "Meråker",
 			"properties": {
 				"bpy": "মেরোকোর",
-				"ceb": "Meråker_(munisipyo)",
-				"nds": "Kommun_Meråker",
-				"nl": "Meråker_(gemeente)",
-				"nn": "Meråker_kommune",
+				"ceb": "Meråker (munisipyo)",
+				"nds": "Kommun Meråker",
+				"nl": "Meråker (gemeente)",
+				"nn": "Meråker kommune",
 				"ru": "Мерокер",
 				"se": "Muorahká",
-				"sv": "Meråkers_kommun",
+				"sv": "Meråkers kommun",
 				"zh": "梅羅克"
 			}
 		},
@@ -333,39 +345,39 @@
 			"type": "Feature",
 			"id": "Midtre Gauldal",
 			"properties": {
-				"ar": "ميدترة_غاولدال",
-				"bar": "Midtre_Gauldal",
-				"bpy": "মিডট্রে_গৌলডাল",
-				"ca": "Midtre_Gauldal",
-				"ceb": "Midtre_Gauldal",
-				"da": "Midtre_Gauldal",
-				"de": "Midtre_Gauldal",
-				"es": "Midtre_Gauldal",
-				"eu": "Midtre_Gauldal",
-				"fi": "Midtre_Gauldal",
-				"fr": "Midtre_Gauldal",
+				"ar": "ميدترة غاولدال",
+				"bar": "Midtre Gauldal",
+				"bpy": "মিডট্রে গৌলডাল",
+				"ca": "Midtre Gauldal",
+				"ceb": "Midtre Gauldal",
+				"da": "Midtre Gauldal",
+				"de": "Midtre Gauldal",
+				"es": "Midtre Gauldal",
+				"eu": "Midtre Gauldal",
+				"fi": "Midtre Gauldal",
+				"fr": "Midtre Gauldal",
 				"hy": "Միդտրե-Գյոուլդալ",
-				"it": "Midtre_Gauldal",
-				"la": "Midtre_Gauldal",
-				"li": "Midtre_Gauldal",
-				"ms": "Midtre_Gauldal",
-				"nds": "Kommun_Midtre_Gauldal",
-				"nl": "Midtre_Gauldal",
-				"nn": "Midtre_Gauldal_kommune",
-				"no": "Midtre_Gauldal",
-				"pl": "Midtre_Gauldal",
-				"pt": "Midtre_Gauldal",
-				"ro": "Midtre_Gauldal",
+				"it": "Midtre Gauldal",
+				"la": "Midtre Gauldal",
+				"li": "Midtre Gauldal",
+				"ms": "Midtre Gauldal",
+				"nds": "Kommun Midtre Gauldal",
+				"nl": "Midtre Gauldal",
+				"nn": "Midtre Gauldal kommune",
+				"no": "Midtre Gauldal",
+				"pl": "Midtre Gauldal",
+				"pt": "Midtre Gauldal",
+				"ro": "Midtre Gauldal",
 				"ru": "Мидтре-Гёулдал",
-				"se": "Midtre_Gauldal",
-				"sl": "Midtre_Gauldal",
-				"sq": "Midtre_Gauldal",
-				"sv": "Midtre_Gauldals_kommun",
-				"tr": "Midtre_Gauldal",
-				"vi": "Midtre_Gauldal",
-				"war": "Midtre_Gauldal",
+				"se": "Midtre Gauldal",
+				"sl": "Midtre Gauldal",
+				"sq": "Midtre Gauldal",
+				"sv": "Midtre Gauldals kommun",
+				"tr": "Midtre Gauldal",
+				"vi": "Midtre Gauldal",
+				"war": "Midtre Gauldal",
 				"zh": "中蓋于爾達爾",
-				"zh-min-nan": "Midtre_Gauldal"
+				"zh-min-nan": "Midtre Gauldal"
 			}
 		},
 		{
@@ -373,11 +385,11 @@
 			"id": "Namdalseid",
 			"properties": {
 				"bpy": "নামডালসেইড",
-				"nds": "Kommun_Namdalseid",
-				"nn": "Namdalseid_kommune",
+				"nds": "Kommun Namdalseid",
+				"nn": "Namdalseid kommune",
 				"ru": "Намдалсэйд",
 				"se": "Aejrie",
-				"sv": "Namdalseids_kommun",
+				"sv": "Namdalseids kommun",
 				"zh": "納姆達爾塞德"
 			}
 		},
@@ -392,13 +404,13 @@
 				"ja": "ナムソス",
 				"jbo": "namsos",
 				"ko": "남소스",
-				"nds": "Kommun_Namsos",
-				"nl": "Namsos_(gemeente)",
-				"nn": "Namsos_kommune",
+				"nds": "Kommun Namsos",
+				"nl": "Namsos (gemeente)",
+				"nn": "Namsos kommune",
 				"ru": "Намсус",
 				"se": "Njaarke",
 				"sr": "Намсос",
-				"sv": "Namsos_kommun",
+				"sv": "Namsos kommun",
 				"uk": "Намсус",
 				"zh": "納姆索斯"
 			}
@@ -408,11 +420,11 @@
 			"id": "Namsskogan",
 			"properties": {
 				"bpy": "নামসস্কোগান",
-				"nds": "Kommun_Namsskogan",
-				"nn": "Namsskogan_kommune",
+				"nds": "Kommun Namsskogan",
+				"nn": "Namsskogan kommune",
 				"ru": "Намсскуган",
 				"se": "Nååmesje",
-				"sv": "Namsskogans_kommun",
+				"sv": "Namsskogans kommun",
 				"zh": "納姆斯庫甘"
 			}
 		},
@@ -421,10 +433,10 @@
 			"id": "Nærøy",
 			"properties": {
 				"bpy": "নায়েরায়",
-				"nds": "Kommun_Nærøy",
-				"nn": "Nærøy_kommune",
+				"nds": "Kommun Nærøy",
+				"nn": "Nærøy kommune",
 				"ru": "Нерёй",
-				"sv": "Nærøy_kommun",
+				"sv": "Nærøy kommun",
 				"zh": "奈略"
 			}
 		},
@@ -435,13 +447,13 @@
 				"ar": "أوبدال",
 				"bg": "Опдал",
 				"bpy": "ওপ্পডাল",
-				"ceb": "Oppdal_(munisipyo)",
-				"et": "Oppdali_vald",
-				"hy": "Օպդալի_համայնք",
-				"nds": "Kommun_Oppdal",
-				"nn": "Oppdal_kommune",
+				"ceb": "Oppdal (munisipyo)",
+				"et": "Oppdali vald",
+				"hy": "Օպդալի համայնք",
+				"nds": "Kommun Oppdal",
+				"nn": "Oppdal kommune",
 				"ru": "Оппдал",
-				"sv": "Oppdals_kommun",
+				"sv": "Oppdals kommun",
 				"zh": "奧普達爾"
 			}
 		},
@@ -451,13 +463,13 @@
 			"properties": {
 				"ar": "أوركدال",
 				"bpy": "ওর্কডাল",
-				"ceb": "Orkdal_(munisipyo)",
+				"ceb": "Orkdal (munisipyo)",
 				"fa": "اورکدال",
 				"hy": "Օրկդալ",
-				"nds": "Kommun_Orkdal",
-				"nn": "Orkdal_kommune",
+				"nds": "Kommun Orkdal",
+				"nn": "Orkdal kommune",
 				"ru": "Оркдал",
-				"sv": "Orkdals_kommun",
+				"sv": "Orkdals kommun",
 				"zh": "奧克達爾"
 			}
 		},
@@ -465,16 +477,16 @@
 			"type": "Feature",
 			"id": "Osen",
 			"properties": {
-				"ar": "أوسن_(النرويج)",
+				"ar": "أوسن (النرويج)",
 				"bpy": "ওসেন",
-				"ceb": "Osen_(munisipyo)",
-				"fr": "Osen_(Norvège)",
-				"li": "Osen_(Nórwaeg)",
-				"nds": "Kommun_Osen",
-				"nl": "Osen_(Noorwegen)",
-				"nn": "Osen_kommune",
-				"ru": "Усен_(Норвегия)",
-				"sv": "Osens_kommun",
+				"ceb": "Osen (munisipyo)",
+				"fr": "Osen (Norvège)",
+				"li": "Osen (Nórwaeg)",
+				"nds": "Kommun Osen",
+				"nl": "Osen (Noorwegen)",
+				"nn": "Osen kommune",
+				"ru": "Усен (Норвегия)",
+				"sv": "Osens kommun",
 				"zh": "烏森"
 			}
 		},
@@ -483,10 +495,10 @@
 			"id": "Overhalla",
 			"properties": {
 				"bpy": "ওভেরহাল্লা",
-				"nds": "Kommun_Overhalla",
-				"nn": "Overhalla_kommune",
+				"nds": "Kommun Overhalla",
+				"nn": "Overhalla kommune",
 				"ru": "Уверхалла",
-				"sv": "Overhalla_kommun",
+				"sv": "Overhalla kommun",
 				"zh": "奧沃爾哈拉"
 			}
 		},
@@ -497,10 +509,10 @@
 				"ar": "رينيبو",
 				"bpy": "রেন্নেবু",
 				"hy": "Ռենեբու",
-				"nds": "Kommun_Rennebu",
-				"nn": "Rennebu_kommune",
+				"nds": "Kommun Rennebu",
+				"nn": "Rennebu kommune",
 				"ru": "Реннебу",
-				"sv": "Rennebu_kommun",
+				"sv": "Rennebu kommun",
 				"zh": "倫內比"
 			}
 		},
@@ -508,19 +520,19 @@
 			"type": "Feature",
 			"id": "Roan",
 			"properties": {
-				"ar": "روان_(النرويج)",
-				"ca": "Roan_(Noruega)",
-				"ceb": "Roan_(munisipyo)",
-				"fr": "Roan_(Norvège)",
-				"ms": "Roan,_Norway",
-				"nds": "Kommun_Roan",
-				"nn": "Roan_kommune",
-				"ro": "Roan_(Norvegia)",
-				"ru": "Руан_(коммуна)",
-				"sl": "Roan,_Norveška",
-				"sv": "Roans_kommun",
-				"vi": "Roan,_Sør-Trøndelag",
-				"war": "Roan,_Norway",
+				"ar": "روان (النرويج)",
+				"ca": "Roan (Noruega)",
+				"ceb": "Roan (munisipyo)",
+				"fr": "Roan (Norvège)",
+				"ms": "Roan, Norway",
+				"nds": "Kommun Roan",
+				"nn": "Roan kommune",
+				"ro": "Roan (Norvegia)",
+				"ru": "Руан (коммуна)",
+				"sl": "Roan, Norveška",
+				"sv": "Roans kommun",
+				"vi": "Roan, Sør-Trøndelag",
+				"war": "Roan, Norway",
 				"zh": "魯安"
 			}
 		},
@@ -532,21 +544,21 @@
 				"be": "Рорус",
 				"bg": "Рьорос",
 				"bpy": "রারোস",
-				"et": "Rørosi_vald",
+				"et": "Rørosi vald",
 				"fa": "روروس",
 				"he": "ררוס",
-				"hy": "Ռյորոսի_համայնք",
+				"hy": "Ռյորոսի համայնք",
 				"ja": "レーロース",
 				"ka": "რიორუსი",
 				"ko": "뢰로스",
 				"lt": "Rerusas",
 				"my": "ရဲရို့စ်မြို့",
-				"nds": "Kommun_Røros",
-				"nn": "Røros_kommune",
+				"nds": "Kommun Røros",
+				"nn": "Røros kommune",
 				"ru": "Рёрус",
 				"se": "Plassje",
 				"sr": "Рерос",
-				"sv": "Røros_kommun",
+				"sv": "Røros kommun",
 				"uk": "Рьорус",
 				"zh": "勒羅斯"
 			}
@@ -556,12 +568,12 @@
 			"id": "Røyrvik",
 			"properties": {
 				"bpy": "রায়রভিক",
-				"ceb": "Røyrvik_(munisipyo)",
-				"nds": "Kommun_Røyrvik",
-				"nn": "Røyrvik_kommune",
+				"ceb": "Røyrvik (munisipyo)",
+				"nds": "Kommun Røyrvik",
+				"nn": "Røyrvik kommune",
 				"ru": "Рёйрвик",
 				"se": "Raavrevijhke",
-				"sv": "Røyrviks_kommun",
+				"sv": "Røyrviks kommun",
 				"zh": "略爾維克"
 			}
 		},
@@ -571,10 +583,10 @@
 			"properties": {
 				"ar": "سيلبو",
 				"bpy": "সেলবু",
-				"nds": "Kommun_Selbu",
-				"nn": "Selbu_kommune",
+				"nds": "Kommun Selbu",
+				"nn": "Selbu kommune",
 				"ru": "Сельбу",
-				"sv": "Selbu_kommun",
+				"sv": "Selbu kommun",
 				"zh": "塞爾布"
 			}
 		},
@@ -584,13 +596,17 @@
 			"properties": {
 				"ar": "سكاون",
 				"bpy": "সকৌন",
-				"ceb": "Skaun_(munisipyo)",
-				"nds": "Kommun_Skaun",
-				"nn": "Skaun_kommune",
+				"ceb": "Skaun (munisipyo)",
+				"nds": "Kommun Skaun",
+				"nn": "Skaun kommune",
 				"ru": "Скёун",
-				"sv": "Skauns_kommun",
+				"sv": "Skauns kommun",
 				"zh": "斯凱于恩"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Snåsa"
 		},
 		{
 			"type": "Feature",
@@ -598,10 +614,10 @@
 			"properties": {
 				"ar": "سنيلفيورد",
 				"bpy": "স্নিলফজোর্ড",
-				"nds": "Kommun_Snillfjord",
-				"nn": "Snillfjord_kommune",
+				"nds": "Kommun Snillfjord",
+				"nn": "Snillfjord kommune",
 				"ru": "Снилльфьорд",
-				"sv": "Snillfjords_kommun",
+				"sv": "Snillfjords kommun",
 				"zh": "斯尼爾菲尤爾"
 			}
 		},
@@ -610,13 +626,13 @@
 			"id": "Snåsa",
 			"properties": {
 				"bpy": "স্নসা",
-				"ceb": "Snåsa_(munisipyo_sa_Noruwega)",
+				"ceb": "Snåsa (munisipyo sa Noruwega)",
 				"kv": "Сноасе",
-				"nds": "Kommun_Snåsa",
-				"nn": "Snåsa_kommune",
+				"nds": "Kommun Snåsa",
+				"nn": "Snåsa kommune",
 				"ru": "Сноса",
 				"se": "Snoasa",
-				"sv": "Snåsa_kommun",
+				"sv": "Snåsa kommun",
 				"zh": "斯諾薩"
 			}
 		},
@@ -630,21 +646,21 @@
 				"be-x-old": "Стэйнчэр",
 				"bg": "Стайнхер",
 				"bpy": "স্টেইন্কজের",
-				"ceb": "Steinkjer_(munisipyo)",
+				"ceb": "Steinkjer (munisipyo)",
 				"fa": "استاینکیر",
 				"ja": "スタインシャー",
 				"ko": "스테인셰르",
 				"lt": "Steincheris",
-				"nds": "Kommun_Steinkjer",
-				"nl": "Steinkjer_(gemeente)",
-				"nn": "Steinkjer_kommune",
+				"nds": "Kommun Steinkjer",
+				"nl": "Steinkjer (gemeente)",
+				"nn": "Steinkjer kommune",
 				"os": "Стейнхьер",
 				"pnb": "سٹائنکیر",
 				"ru": "Стейнхьер",
 				"se": "Stientjie",
 				"sr": "Стејнћер",
-				"sv": "Steinkjers_kommun",
-				"uk": "Стейнг'єр",
+				"sv": "Steinkjers kommun",
+				"uk": "Стейнг’єр",
 				"ur": "ستائنکیئر",
 				"zh": "斯泰恩谢尔"
 			}
@@ -655,15 +671,15 @@
 			"properties": {
 				"ar": "ستيوردال",
 				"bpy": "স্টজারডাল",
-				"ceb": "Stjørdal_(munisipyo_sa_Noruwega)",
+				"ceb": "Stjørdal (munisipyo sa Noruwega)",
 				"fa": "استیوردال",
 				"ko": "스티에르달",
 				"lv": "Šerdāle",
-				"nds": "Kommun_Stjørdal",
-				"nn": "Stjørdal_kommune",
+				"nds": "Kommun Stjørdal",
+				"nn": "Stjørdal kommune",
 				"ru": "Схьёрдал",
 				"se": "Skierde",
-				"sv": "Stjørdals_kommun",
+				"sv": "Stjørdals kommun",
 				"zh": "斯彻达尔"
 			}
 		},
@@ -678,7 +694,7 @@
 				"bg": "Тронхайм",
 				"bpy": "ট্রোনডেহিম",
 				"ce": "Тронхейм",
-				"ceb": "Trondheim_(kapital_sa_lalawigan)",
+				"ceb": "Trondheim (kapital sa lalawigan)",
 				"el": "Τρόντχαϊμ",
 				"fa": "تروندهایم",
 				"he": "טרונדהיים",
@@ -713,10 +729,10 @@
 			"properties": {
 				"ar": "تيدال",
 				"bpy": "টায়ডাল",
-				"nds": "Kommun_Tydal",
-				"nn": "Tydal_kommune",
+				"nds": "Kommun Tydal",
+				"nn": "Tydal kommune",
 				"ru": "Тюдал",
-				"sv": "Tydals_kommun",
+				"sv": "Tydals kommun",
 				"zh": "蒂達爾"
 			}
 		},
@@ -725,13 +741,13 @@
 			"id": "Verdal",
 			"properties": {
 				"bpy": "ভেরডাল",
-				"ca": "Verdal_(Noruega)",
-				"ceb": "Verdal_(munisipyo)",
-				"hu": "Verdal_község",
-				"nds": "Kommun_Verdal",
-				"nn": "Verdal_kommune",
+				"ca": "Verdal (Noruega)",
+				"ceb": "Verdal (munisipyo)",
+				"hu": "Verdal község",
+				"nds": "Kommun Verdal",
+				"nn": "Verdal kommune",
 				"ru": "Вердал",
-				"sv": "Verdals_kommun",
+				"sv": "Verdals kommun",
 				"zh": "韋爾達爾"
 			}
 		},
@@ -740,11 +756,11 @@
 			"id": "Verran",
 			"properties": {
 				"bpy": "ভের্রান",
-				"nds": "Kommun_Verran",
-				"nn": "Verran_kommune",
+				"nds": "Kommun Verran",
+				"nn": "Verran kommune",
 				"ru": "Верран",
-				"sv": "Verrans_kommun",
-				"zh": "韋爾蘭_(挪威)"
+				"sv": "Verrans kommun",
+				"zh": "韋爾蘭 (挪威)"
 			}
 		},
 		{
@@ -752,12 +768,12 @@
 			"id": "Vikna",
 			"properties": {
 				"bpy": "ভিক্না",
-				"ceb": "Vikna_(munisipyo)",
+				"ceb": "Vikna (munisipyo)",
 				"ja": "ヴィクナ",
-				"nds": "Kommun_Vikna",
-				"nn": "Vikna_kommune",
+				"nds": "Kommun Vikna",
+				"nn": "Vikna kommune",
 				"ru": "Викна",
-				"sv": "Vikna_kommun",
+				"sv": "Vikna kommun",
 				"zh": "維克納"
 			}
 		},
@@ -767,12 +783,12 @@
 			"properties": {
 				"ar": "أوفيورد",
 				"bpy": "অফজোর্ড",
-				"ceb": "Åfjord_(munisipyo_sa_Noruwega)",
+				"ceb": "Åfjord (munisipyo sa Noruwega)",
 				"hy": "Օֆյորդ",
-				"nds": "Kommun_Åfjord",
-				"nn": "Åfjord_kommune",
+				"nds": "Kommun Åfjord",
+				"nn": "Åfjord kommune",
 				"ru": "Офьорд",
-				"sv": "Åfjords_kommun",
+				"sv": "Åfjords kommun",
 				"zh": "奥菲尤尔"
 			}
 		},
@@ -782,11 +798,11 @@
 			"properties": {
 				"ar": "أورلاند",
 				"bpy": "আরলেন্ড",
-				"fa": "اورلند_(نروژ)",
-				"nds": "Kommun_Ørland",
-				"nn": "Ørland_kommune",
+				"fa": "اورلند (نروژ)",
+				"nds": "Kommun Ørland",
+				"nn": "Ørland kommune",
 				"ru": "Эрланн",
-				"sv": "Ørlands_kommun",
+				"sv": "Ørlands kommun",
 				"zh": "歐蘭"
 			}
 		}
