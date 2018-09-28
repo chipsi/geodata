@@ -59,5 +59,3 @@ You can validate geojson files using [geojsonlint.com](http://geojsonlint.com/)
 This project can only accept contributions that are in the public domain or that
 have a free redistribution licence.  [Wikipedia](https://www.wikipedia.org) and
 [Wikimedia Commons](https://commons.wikimedia.org) are a great source of such data!
-
-Each folder has a LICENCE.md file.
